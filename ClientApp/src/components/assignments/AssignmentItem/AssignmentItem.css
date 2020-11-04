@@ -1,0 +1,15 @@
+﻿img {
+    width: 9vw;
+    height: 10vh;
+}
+
+.imageClass {
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+}
+
+h4 {
+    display: inline-block;
+    width: 78%;
+}

@@ -1,0 +1,33 @@
+﻿.addAssignment {
+    width: 40%;
+    padding: 2%;
+    float:left;
+}
+
+.inputDescription {
+    width:100%;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-bottom:5%;
+}
+
+.error {
+    margin-left: 5px;
+    font-size: 13px;
+    color: red;
+}
+
+.space {
+    margin-bottom: 5%;
+}
